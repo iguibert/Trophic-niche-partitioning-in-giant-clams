@@ -1,1 +1,1 @@
-Guibert et al. Trophic niche aprtitioning in giant clams. Supplementary data and script.
+Guibert et al. Trophic niche partitioning in giant clams. Supplementary data and script.
