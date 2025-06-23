@@ -2,7 +2,6 @@
 ## HERS score script                                                                   ####
 ## Data: giant clams isotope data - Bakers Lab - HongKongUni - SWIRE                   ####
 ## Script Author:Leonard Pons (Not optimized)                                          ####
-## Script DOI:
 ## Manuscript: Guibert et al. Niche partitioning in giant clams
 ##
 ## If you use this script, please cite the manuscript and script DOI. Thank you! ####
